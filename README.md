@@ -10,6 +10,18 @@ A simple Tic-Tac-Toe game built using SFML.
 - Reset the game with a middle mouse click
 - Simple and interactive UI
 
+## Screenshots
+
+![Game Start Screen](screenshots/ss1.png)
+*The initial game screen before any moves.*
+
+![Game Over](screenshots/ss3.png)
+*The game over screen showing the result.*
+
+![Mid Game](screenshots/ss2.png)
+*The game over screen showing the result is tie.*
+
+
 ## Controls
 - **Left Click**: Place "X" or "O" in an empty cell.
 - **Right Click**: Display debug information.
